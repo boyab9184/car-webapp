@@ -10,6 +10,7 @@ def handle_car_api_data(car_dict):
     car_price = []
     for i in range(len(car_dict['listings'])):
         try:
+
             list_price = car_dict['listings'][i]['price']
             car_price.append(list_price)
         except:
