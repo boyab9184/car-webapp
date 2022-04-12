@@ -3,4 +3,4 @@ This python, flask and react based web application which consumes external API a
 New car proce depreciation, comparing cars and models, finding the best deal for praticular car whole US.
 
 
-![alt text](/Users/boyanbenev/carapp-git/car-webapp/Capture.JPG)
+![alt text](Capture.JPG?raw=true "Pic1")
